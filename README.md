@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Jeonghyun oh and i'm a java Back-end Web Developer!
 
-Please watch my growth as a dev
+Please watch my growth as a dev.
 
 ### Skills
 
