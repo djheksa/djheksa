@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <!-- 스프링 로고 -->
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
+<!-- 스프링부트 로고 -->
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <!-- json 로고 -->
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
 <!-- 오라클 로고 -->
