@@ -5,7 +5,7 @@
 <!-- 스프링 로고 -->
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
 <!-- json 로고 -->
-<img src="https://img.shields.io/badge/Json-#000000?style=flat-square&logo=JSON&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
 <!-- 오라클 로고 -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <!-- mariaDB 로고 -->
