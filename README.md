@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Jeonghyun oh and i'm a java Back-end Web Developer!
+### Hi there 👋 i'm Jeonghyun oh and i'm a Back-end Web Developer!
 
 Please watch my development as a developer
 
