@@ -2,7 +2,7 @@
 
 Please watch my development as a developer
 
-### Skills
+### tech stack
 
 Platform & Version Support
 
