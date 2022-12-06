@@ -1,6 +1,4 @@
-### Hi there 👋 i'm Jeonghyun oh and i'm a Back-end Web Developer!
-
-Please watch my development as a developer
+###👋 백엔드 꿈나무 오득춘
 
 ### tech stack
 
