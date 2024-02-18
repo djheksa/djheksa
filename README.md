@@ -1,7 +1,5 @@
 # 사나이 오득춘 #
 
-### tech stack
-
 <!-- 자바 로고 -->
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><!-- 스프링부트 로고 -->
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
